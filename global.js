@@ -9,6 +9,3 @@ function normalImg(x) {
     showBio;
 }
 
-function showBio(){
-  document.elementById("bio").
-}
