@@ -9,6 +9,9 @@ body{
 .container{
   margin:0px auto;
 }
+.hide{
+  display:none;
+}
 
 h1{
   font-size:48px;
@@ -22,6 +25,7 @@ h1{
 .class__pictures__classmate__picture img:hover{
   width:240px;
   height:240px;
+/**/
 }
 
 .definition{
@@ -41,6 +45,10 @@ h1{
 .class__header{
   text-align:center;
   color:#0078ae;
+}
+
+.class__pictures__classmate{
+  padding:10px;
 }
 .class__pictures__classmate{
   float:left;
