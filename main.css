@@ -1,5 +1,10 @@
 body{
   font-family:"arial";
+  padding:0px;
+  margin:0px;
+}
+.clear{
+  clear:both;
 }
 .container{
   margin:0px auto;
@@ -13,6 +18,10 @@ body{
 
 .definition__content{
   color: white;
+}
+.class{
+  width:80%;
+  margin:0px auto;
 }
 
 .class__header{
@@ -46,4 +55,17 @@ body{
   padding: 4px 0px 15px 20px;
   margin: 0px;
   
+}
+/*---------------------
+Footer
+----------------------*/
+footer{
+  background-color:#0078ae;
+}
+.logo{
+  padding:10px;
+}
+.logo img{
+  display:block;
+      margin:auto;
 }
