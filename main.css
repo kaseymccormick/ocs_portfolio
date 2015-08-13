@@ -1,0 +1,24 @@
+body{
+  font-family:"arial";
+}
+.container{
+  margin:0px auto;
+}
+
+.definition{
+  background-image:url("img/dragonfire.jpg");
+  background-repeat:no-repeat;
+  display:inline-block;  
+}
+
+.definition__logo{ 
+}
+
+.definition__content{
+  color: white;
+}
+
+.class__header{
+  text-align:center;
+  color:#0078ae;
+}
