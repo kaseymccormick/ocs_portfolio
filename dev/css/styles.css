@@ -1,0 +1,85 @@
+body{
+  font-family:"helvetica";
+  padding:0px;
+  margin:0px;
+}
+.clear{
+  clear:both;
+}
+.container{
+  margin:0px auto;
+}
+
+h1{
+  font-size:48px;
+  font-weight:normal; 
+}
+.class__pictures__classmate__picture img{
+  width:95px;
+  height:95px;
+}
+
+.class__pictures__classmate__picture img:hover{
+  width:240px;
+  height:240px;
+}
+
+.definition{
+  background-image:url("img/dragonfire.jpg");
+  background-repeat:no-repeat;
+  display:inline-block;  
+}
+
+.definition__content{
+  color: white;
+}
+.class{
+  width:80%;
+  margin:0px auto;
+}
+
+.class__header{
+  text-align:center;
+  color:#0078ae;
+}
+.class__pictures__classmate{
+  float:left;
+}
+.class__pictures__classmate__bio{
+  background:black;
+  opacity:.8;
+  color:white;
+  font-size:12px;
+  margin-top: -71px;
+  width: 239px;
+  height:20%;
+  
+}
+
+
+.classmate__bio__name{
+  font-weight:normal;
+    padding: 12px 0px 0px 20px;
+  margin:0px;
+}
+
+.classmate__bio__nickname{
+  font-weight:normal;
+  font-style:italic;
+  padding: 4px 0px 15px 20px;
+  margin: 0px;
+  
+}
+/*---------------------
+Footer
+----------------------*/
+footer{
+  background-color:#0078ae;
+}
+.logo{
+  padding:10px;
+}
+.logo img{
+  display:block;
+      margin:auto;
+}
