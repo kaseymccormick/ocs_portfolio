@@ -25,7 +25,7 @@ h1{
 }
 
 .definition{
-  background-image:url("img/dragonfire.jpg");
+  background-image:url("../img/dragonfire.jpg");
   background-repeat:no-repeat;
   display:inline-block;  
 }
