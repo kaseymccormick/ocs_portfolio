@@ -12,8 +12,16 @@ body{
 
 h1{
   font-size:48px;
-  font-weight:normal;
-  
+  font-weight:normal; 
+}
+.class__pictures__classmate__picture img{
+  width:95px;
+  height:95px;
+}
+
+.class__pictures__classmate__picture img:hover{
+  width:240px;
+  height:240px;
 }
 
 .definition{
