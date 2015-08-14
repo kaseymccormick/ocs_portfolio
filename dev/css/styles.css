@@ -57,7 +57,8 @@ float:right;
   background-image:url("../img/dragonfire.jpg");
   background-repeat:no-repeat;
   background-position: -845px -753px;
-  display:inline-block;  
+  display:inline-block; 
+  background-position-x:30%; 
 }
 
 .definition__content{
