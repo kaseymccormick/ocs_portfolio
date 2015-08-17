@@ -22,8 +22,7 @@ h1{
   padding:86px;
 }
 
-.definition__content__words{
-  
+.definition__content__words{  
 }
 .definition__logo{
   width: 35%;
@@ -36,26 +35,6 @@ h1{
 .definition__words__header, .definition__words__ellaboration {
   padding-left: 480px;
   color:#0078AE;
-}
-
-.classmate__wrapper{
-  position:relative;
-}
-
-.class__pictures__classmate__picture{
-  width:95px;
-  height:95px;
-}
-
-
-.classmate__wrapper:hover .class__pictures__classmate__picture{
-  width:210px;
-  height:210px;
-}
-
-.classmate__wrapper:hover .class__pictures__classmate__bio{
-  display:block;
-  top:172px;
 }
 
 .definition{
@@ -94,7 +73,25 @@ h1{
   height:20%;
   
 }
+.classmate__wrapper{
+  position:relative;
+}
 
+.class__pictures__classmate__picture{
+  width:95px;
+  height:95px;
+}
+
+
+.classmate__wrapper:hover .class__pictures__classmate__picture{
+  width:210px;
+  height:210px;
+}
+
+.classmate__wrapper:hover .class__pictures__classmate__bio{
+  display:block;
+  top:172px;
+}
 
 .classmate__bio__name{
   font-weight:normal;
