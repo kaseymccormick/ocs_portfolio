@@ -30,12 +30,12 @@ h1{
   float: left;
 }
 .definition__logo img{
-float:right;
+  float:right;
 }
 
 .definition__words__header, .definition__words__ellaboration {
-    padding-left: 480px;
-    color:#0078AE;
+  padding-left: 480px;
+  color:#0078AE;
 }
 
 .classmate__wrapper{
@@ -49,17 +49,13 @@ float:right;
 
 
 .classmate__wrapper:hover .class__pictures__classmate__picture{
-  width:240px;
-  height:240px;
-
-
+  width:210px;
+  height:210px;
 }
 
 .classmate__wrapper:hover .class__pictures__classmate__bio{
   display:block;
-
   top:172px;
-
 }
 
 .definition{
@@ -85,7 +81,7 @@ float:right;
 
 .class__pictures__classmate{
   padding:10px;
-    float:left;
+  float:left;
 }
 
 .class__pictures__classmate__bio{
@@ -94,7 +90,7 @@ float:right;
   color:white;
   font-size:12px;
   margin-top: -71px;
-  width: 239px;
+  width: 210px;
   height:20%;
   
 }
@@ -102,7 +98,7 @@ float:right;
 
 .classmate__bio__name{
   font-weight:normal;
-    padding: 12px 0px 0px 20px;
+  padding: 12px 0px 0px 20px;
   margin:0px;
 }
 
@@ -124,5 +120,5 @@ footer{
 }
 .logo img{
   display:block;
-      margin:auto;
+  margin:auto;
 }
