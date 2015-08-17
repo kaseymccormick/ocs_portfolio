@@ -86,6 +86,8 @@ h1{
 .classmate__wrapper:hover .class__pictures__classmate__picture{
   width:210px;
   height:210px;
+/*  position: absolute;
+  z-index: 99;*/
 }
 
 .classmate__wrapper:hover .class__pictures__classmate__bio{
